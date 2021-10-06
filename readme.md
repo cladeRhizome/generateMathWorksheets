@@ -14,3 +14,5 @@ Work in progress: needs image/HTML to be generated
 >### Robert C. Martin is a TDD enthusiast.
 >#### https://www.youtube.com/watch?v=qkblc5WRn-U
 >#### http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+
+
