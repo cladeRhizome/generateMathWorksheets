@@ -1,5 +1,9 @@
 function random(limit) {
-    return 1; // not random, but passes the test
-    // just write more tests, to enhance codebase
+    const somewhereBetweenZeroAndOne = Math.random();
+    const upperBound = (limit);
+    const notAnIntegerYet = somewhereBetweenZeroAndOne * upperBound;
+    const roundedDownForARandomInteger = Math.floor(notAnIntegerYet);
+
+    return roundedDownForARandomInteger;
   }
   module.exports = random;
