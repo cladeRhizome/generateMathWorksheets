@@ -11,7 +11,7 @@ Work in progress: needs image/HTML to be generated
 >#### You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
 >#### You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
->### Robert C. Martin is a TDD enthusiast...
+>### Robert C. Martin is a TDD enthusiast.
 >#### https://www.youtube.com/watch?v=qkblc5WRn-U
 >#### http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 
